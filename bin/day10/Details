@@ -1,0 +1,49 @@
+Detailed explanation 
+
+Object oriented programming 
+1. class
+2. object
+3. polymorphism
+4. Encapsulation
+5. Inheritance
+
+
+1. Class
+----------
+-> class is a collection of variables and methods (attributes and behavior)
+-> class is a just virtual entity or logical entity, not a physical entity, its just gave a name to a group
+-> class is a blue print its just a plan, for house based on that you create multiple houses.
+-> will not occupy space in the memory.
+-> Without class no objects 
+
+Animal -->Dog, Elephant, Horse etc..
+Student -->John, David, Abraham etc..
+Employee -->Ram, Shaym, Ravi etc..
+
+2. object
+-------------
+-> objects are derived from the class
+-> one class can have multiple objects
+-> object is physical entity
+-> object occupies space in the memory
+-> You have to create an object then you use with a new keyword
+
+-> object is totally depends on class name ex:- class name Employee and use variable with name it holds the whole obj
+-> Employee emp1 = new Employee() //object Sintex  --> class name followed by bracket is called constructor
+-> Employee emp2 = new Employee()
+-> We are works on the objects not for the class its just a local one
+-> objects are only created with in the main method not any where, main method is compulsory for a execution.
+
+--> class -> multiple variables & multiple methods but main is only one
+--> method -> 
+-> outside the method inside the class these variables are global or class variables
+-> inside the method these variables are called local variables
+
+Real Projects
+---------------
+-> A project contains only one main method and number of plain classes these are modules,
+-> main class operates all the plain classes and all separate multiple objects are created inside the main class 
+-> See in the code we create one plain class and create one main class and we are using object with access the all data
+-> main class and plain class both are same package then no need to import anything otherwise
+-> main class is different package and plain class is different package then you need to import 
+	import packagename.classname;
