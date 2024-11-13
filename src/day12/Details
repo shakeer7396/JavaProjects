@@ -1,0 +1,29 @@
+Details of this class
+ **************** Polymorphism It is a theory concept
+ 
+ 
+ --> poly means - mini  -> morphism means - form     ->Mini-Forms
+ --> One thing can have many forms.
+ --> Ex Shape -> circle, square, rectangle, triangle etc.
+ --> 	Water -> Wapoure, Ice etc.
+ --> we can achieve polymorphism using overloading 
+ 
+ 	Same methods are used its duplicate but change parameters then overcome this is called method overloading
+ 	-> Return type is not considered only parameters are considered
+ -> void m1() //Change  no of parameters
+  -> void m1() //Order of parameters
+   -> void m1() //Data type of parameters
+   
+  --> Two types of overloading 1.MethodvOverloading   2.Constructor Overloading
+  
+  ** 4.Rules should be applicable for overloading
+  ------------
+  1) Method name should be same
+  2) Number of parameters should be different
+  3) Data types of parameters should be different
+  4) Order of parameters should be different
+  
+  
+  13-11- 35min Done
+  
+  
