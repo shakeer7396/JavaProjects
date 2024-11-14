@@ -3,7 +3,7 @@ Details of this class
  
  
  --> poly means - mini  -> morphism means - form     ->Mini-Forms
- --> One thing can have many forms.
+ --> OverLoading means One thing can have many forms.
  --> Ex Shape -> circle, square, rectangle, triangle etc.
  --> 	Water -> Wapoure, Ice etc.
  --> we can achieve polymorphism using overloading 
@@ -24,6 +24,15 @@ Details of this class
   4) Order of parameters should be different
   
   
-  13-11- 35min Done
+  
+  **************** Encapsulation  It is a security concept
+  
+  -> Encapsulation means Wrapping up of data and methods into a single unit(class).
+   We make then as variables private so that we cannot access anywhere else we can operate the variables only through setters and getters.
+  
+  1) All variables should be private
+  2) For every variables there should be 2 methods (set for setting the data & get for getting the data)
+  3) Variables can be operated only through methods
+ 
   
   
